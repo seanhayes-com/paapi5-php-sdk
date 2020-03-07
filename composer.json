@@ -1,16 +1,22 @@
 {
-    "name" : "amazon/paapiphpsdk",
-    "version" : "1.0.0",
-    "keywords" : [
-        "amazon",
-        "php",
-        "sdk",
-        "api"
-    ],
+    "name" : "seanhayes-com/paapi5-php-sdk",
+	"description": "Code from Amazon to support the Amazon Product Advertising API v5, PHP SDK.",
+	"type": "library",
+	    "keywords" : [
+	        "amazon",
+	        "php",
+	        "sdk",
+	        "api"
+	],
     "homepage" : "https://webservices.amazon.com/paapi5/documentation/index.html",
     "license" : "Apache2.0",
     "authors" : [{
         "name" : "Product Advertising API Team"
+    },
+	{
+        "name": "Sean Hayes",
+        "email": "sean@metalsoftware.com",
+        "homepage": "https://seanhayes.com",
     }
     ],
     "require" : {
