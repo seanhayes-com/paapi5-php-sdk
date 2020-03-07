@@ -2,6 +2,8 @@
 
 This repository contains the open source PHP SDK that allows you to access the [Product Advertising API](https://webservices.amazon.com/paapi5/documentation/index.html) from your PHP app.
 
+Amazon distrbutes the code but doesn't provide a packagist repository
+
 ## Installation
 
 The Product Advertising API PHP SDK can be installed with [Composer](https://getcomposer.org/). Run this command:
